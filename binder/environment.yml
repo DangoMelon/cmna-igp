@@ -1,0 +1,10 @@
+name: cmna
+channels:
+  - conda-forge
+dependencies:
+  - xarray
+  - bokeh
+  - matplotlib
+  - voila
+  - pyviz::holoviews
+  - pyviz::panel
