@@ -5,6 +5,9 @@ dependencies:
   - python=3.8
   - xarray
   - bokeh
+  - selenium
+  - firefox
+  - geckodriver
   - matplotlib
   - voila
   - pyviz::holoviews
