@@ -1,3 +1,5 @@
 #!/bin/bash
 
 jupyter labextension install @pyviz/jupyterlab_pyviz
+
+jupyter lab workspaces import workspace.json
