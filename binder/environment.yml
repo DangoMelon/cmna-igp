@@ -2,6 +2,7 @@ name: cmna
 channels:
   - conda-forge
 dependencies:
+  - python=3.8
   - xarray
   - bokeh
   - matplotlib
