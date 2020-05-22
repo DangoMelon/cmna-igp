@@ -1,5 +1,10 @@
 #!/bin/bash
 
-jupyter labextension install @pyviz/jupyterlab_pyviz
+jupyter labextension install @pyviz/jupyterlab_pyviz \
+                             @jupyter-widgets/jupyterlab-manager \
+                             @bokeh/jupyter_bokeh \
+                             --no-build
+
+jupyter lab build
 
 jupyter lab workspaces import binder/workspace.json

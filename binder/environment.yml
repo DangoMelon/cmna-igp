@@ -9,6 +9,7 @@ dependencies:
   - firefox
   - geckodriver
   - matplotlib
-  - jupyter-panel-proxy
+  - voila
   - pyviz::holoviews
   - pyviz::panel
+  - bokeh::jupyter_bokeh
