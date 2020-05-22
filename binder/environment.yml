@@ -11,5 +11,6 @@ dependencies:
   - firefox
   - geckodriver
   - matplotlib
+  - jupyter-panel-proxy
   - pyviz::holoviews
   - pyviz::panel
