@@ -6,11 +6,11 @@
                     "type": "tab-area",
                     "currentIndex": 0,
                     "widgets": [
-                        "notebook:Notebooks/TareaModelado1.ipynb"
+                        "notebook:TareaModelado1.ipynb"
                     ]
                 },
                 "mode": "multiple-document",
-                "current": "notebook:Notebooks/TareaModelado1.ipynb"
+                "current": "notebook:TareaModelado1.ipynb"
             },
             "left": {
                 "collapsed": true,
@@ -29,9 +29,9 @@
                 "widgets": []
             }
         },
-        "notebook:Notebooks/TareaModelado1.ipynb": {
+        "notebook:TareaModelado1.ipynb": {
             "data": {
-                "path": "Notebooks/TareaModelado1.ipynb",
+                "path": "TareaModelado1.ipynb",
                 "factory": "Notebook"
             }
         }
