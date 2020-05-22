@@ -6,10 +6,10 @@ dependencies:
   - xarray
   - bokeh
   - selenium
+  - jupyterlab
+  - nodejs
   - firefox
   - geckodriver
   - matplotlib
-  - voila
   - pyviz::holoviews
   - pyviz::panel
-  - bokeh::jupyter_bokeh
