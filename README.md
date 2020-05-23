@@ -13,7 +13,7 @@ Usar el boton de `render` para ver el notebook estático en nbviewer; el botón 
 **Resultados:**
 <div align="center">
 
-<img src="figs/resultado_2nd.gif" width="250"/>
-<img src="figs/resultado_const.gif" width="250"/>
+<img src="figs/resultado_2nd.gif" width="425"/>
+<img src="figs/resultado_const.gif" width="425"/>
 
 </div>
