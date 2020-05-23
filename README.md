@@ -10,9 +10,10 @@ Este repo tiene como finalidad guardar las tareas de modelamiento asignadas en e
 
 Usar el boton de `render` para ver el notebook estático en nbviewer; el botón `Binder` para abrir una sesion interactiva de Jupyter o `Binder app` para abrir solamente la web app interactiva.
 
-**Resultado:**
+**Resultados:**
 <div align="center">
 
-![Resultado](resultado.gif)
+<img src="figs/resultado_2nd.gif" width="250"/>
+<img src="figs/resultado_const.gif" width="250"/>
 
 </div>
